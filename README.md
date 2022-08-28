@@ -6,7 +6,10 @@ Yoda trying to tell jokes.
 
 Correction...Yoda spouting nonsense. 
 
+
 API's:
 
-JokeAPI: https://sv443.net/jokeapi/v2/?ref=apilist.fun
+
+JokeAPI: https://sv443.net/jokeapi/v2/?ref=apilist.fun 
+
 Yoda Translator API: https://funtranslations.com/api/yoda#endpoint
