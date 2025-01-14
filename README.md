@@ -4,7 +4,7 @@ Yoda trying to tell jokes.
 
 *voice of Yoda*: "Do or Do Not, there is no Try."
 
-Correction...Yoda spouting nonsense. 
+Correction...Yoda telling really bad jokes. 
 
 
 API's:
